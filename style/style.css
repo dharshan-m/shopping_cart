@@ -4,7 +4,8 @@
 }
 
 .container{
-    margin: 15%;
+    margin-top: 20px;
+    margin-left: 700px;
 }
 button {
     width: 100px;
@@ -16,4 +17,18 @@ button {
 }
 button:hover{
     background-color: rgb(212, 0, 255);
+}
+img{
+    width: 250px;
+    margin-left: 215px;
+}
+.main{
+    background-color: transparent;
+    cursor: pointer;
+    border-style: solid;
+    width: 700px;
+    height: 700px;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-bottom: 100px
 }
